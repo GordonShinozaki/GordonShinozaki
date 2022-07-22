@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Go-000?style=flat&logo=go)](https://github.com/GordonShinozaki)
 [![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/GordonShinozaki)
 [![](https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch)](https://github.com/GordonShinozaki)
+[![](https://img.shields.io/badge/-Typescript-000?style=flat&logo=typescript)](https://github.com/GordonShinozaki)
+[![](https://img.shields.io/badge/-react-000?style=flat&logo=react)](https://github.com/GordonShinozaki)
+
 
 [![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/GordonShinozaki)
 [![](https://img.shields.io/badge/-k8s-000?style=flat&logo=kubernetes)](https://github.com/GordonShinozaki)
