@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Wally, a full-stack developer based in Tokyo
+
 - 🔭 I’m currently working on Security Engineering @ 株式会社Line, Backend & Infrastructure @ 株式会社iSpec in Tokyo!
 - 👯 I used to work on Game Application Security, and Frontend stuff, mostly with Vue and React!
 - 🌱 I’m currently learning about infrastructure, mostly on Terraform, CircleCI and how to best use them securely on cloud
@@ -7,8 +9,8 @@
 - 💬 Ask me about frontend stuff, or software design 
 - 📫 How to reach me: Here, or over at my linkedin -> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/de-kai-wah/)
 - ⚡ Fun fact: 
- 1. 26 years young, but I haven't graduated from university....yet
- 2. But also doing research in Fuzzing automation, with a focus on PDF parsers
+- 26 years young, but I haven't graduated from university....yet
+- Doing research in Fuzzing automation, with a focus on PDF parsers @ University of Tokyo
  
  <img src="https://komarev.com/ghpvc/?username=GordonShinozaki&style=flat-square&color=blue" alt=""/>
 
