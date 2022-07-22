@@ -47,3 +47,14 @@ Here are some ideas to get you started:
 
 [![](https://github-readme-stats.vercel.app/api?username=GordonShinozaki&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/GordonShinozaki)
 [![](https://github-profile-trophy.vercel.app/?username=GordonShinozaki&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/GordonShinozaki)
+
+---
+
+### :pencil2: Cool projects with friends :
+<div>
+  <a href="https://github.com/GordonShinozaki/yolov5Brainhack">Object detection</a>
+  <br/>
+  <a href="https://github.com/anEEStudent/Speech-Emotion-Recognition-Model">NLP</a>
+  <br/>
+  <a href="https://github.com/anEEStudent/brainhack_robotics">Robotics</a>
+</div>
