@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Secuity @ Line, Backend & Infrastructure @ iSpec in Tokyo!
+- 🔭 I’m currently working on Security Engineering @ 株式会社Line, Backend & Infrastructure @ 株式会社iSpec in Tokyo!
 - 👯 I used to work on Game Application Security, and Frontend stuff, mostly with Vue and React!
 - 🌱 I’m currently learning about infrastructure, mostly on Terraform, CircleCI and how to best use them securely on cloud
 - 🤔 I’m looking for help with security, kubernetes secrets management, and workflow automation!
 - 💬 Ask me about frontend stuff, or software design 
 - 📫 How to reach me: Here, or over at my linkedin on https://www.linkedin.com/in/de-kai-wah/
-- ⚡ Fun fact: 26 years young, but I haven't graduated from university....yet
+- ⚡ Fun fact: 
+ 1. 26 years young, but I haven't graduated from university....yet
+ 2. But also doing research in Fuzzing automation, with a focus on PDF parsers
 
 <!--
 **GordonShinozaki/GordonShinozaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
