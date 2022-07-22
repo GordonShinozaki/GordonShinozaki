@@ -5,10 +5,12 @@
 - 🌱 I’m currently learning about infrastructure, mostly on Terraform, CircleCI and how to best use them securely on cloud
 - 🤔 I’m looking for help with security, kubernetes secrets management, and workflow automation!
 - 💬 Ask me about frontend stuff, or software design 
-- 📫 How to reach me: Here, or over at my linkedin on https://www.linkedin.com/in/de-kai-wah/
+- 📫 How to reach me: Here, or over at my linkedin -> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/de-kai-wah/)
 - ⚡ Fun fact: 
  1. 26 years young, but I haven't graduated from university....yet
  2. But also doing research in Fuzzing automation, with a focus on PDF parsers
+ 
+ <img src="https://komarev.com/ghpvc/?username=GordonShinozaki&style=flat-square&color=blue" alt=""/>
 
 <!--
 **GordonShinozaki/GordonShinozaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 <!-- logo from https://simpleicons.org/ -->
 
