@@ -2,7 +2,7 @@
 
 I'm Wally, a full-stack developer based in Tokyo
 
-- 🔭 I’m currently working on Security Engineering @ 株式会社Line, Backend & Infrastructure @ 株式会社iSpec in Tokyo
+- 🔭 I’m currently working on Security Engineering @ 株式会社Line, Backend & Infrastructure @ Amptalk株式会社 in Tokyo
 - 👯 I used to work on Game Application Security, and Frontend stuff, mostly with Vue and React
 - 🌱 I’m currently learning about infrastructure, mostly on Terraform, CircleCI and how to best use them securely on cloud
 - 🤔 I’m looking for help with security, kubernetes secrets management, and workflow automation!
