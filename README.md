@@ -7,7 +7,7 @@ I'm Wally, a full-stack developer based in Tokyo
 - 🌱 I’m currently learning about infrastructure, mostly on Terraform, CircleCI and how to best use them securely on cloud
 - 🤔 I’m looking for help with security, kubernetes secrets management, and workflow automation!
 - 💬 Ask me about frontend stuff, or software design 
-- 📫 How to reach me: Here, or over at my linkedin -> [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/de-kai-wah/)
+- 📫 How to reach me: Here!
 - ⚡ Fun fact: 
 - 26 years young, but I haven't graduated from university....yet
 - Doing research in Fuzzing automation, with a focus on PDF parsers @ University of Tokyo
